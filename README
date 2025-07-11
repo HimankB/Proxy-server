@@ -1,9 +1,1 @@
-COMP30023 2025 - Project 2
-
-Test cases will be added over time.
-See FAQ on Ed (#200) for more details.
- 
-
-run task 1 
-./htproxy -p 8080 - run server at port 8080
 
